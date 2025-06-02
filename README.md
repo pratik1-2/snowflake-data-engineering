@@ -1,3 +1,13 @@
 # Snowflake Data Engineering by Maja Ferle
 
-## Chapter 2 - Creating your first data pipeline
+---
+
+## PART 1 – Introducing Data Engineering with Snowflake
+
+### Chapter 2 – Creating Your First Data Pipeline
+
+---
+
+## PART 2 – Ingesting, Transforming, and Storing Data
+
+### Chapter 3 – Best Practices for Data Staging

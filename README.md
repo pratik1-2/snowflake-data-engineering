@@ -11,3 +11,5 @@
 ## PART 2 – Ingesting, Transforming, and Storing Data
 
 ### Chapter 3 – Best Practices for Data Staging
+
+### Chapter 4 – Transforming Data

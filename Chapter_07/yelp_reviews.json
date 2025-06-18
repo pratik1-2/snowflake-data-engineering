@@ -1,0 +1,29 @@
+{
+  "possible_languages": [
+    "fr",
+    "en"
+  ],
+  "reviews": [
+    {
+      "id": "xK_9mL2RfHNCq-_VT-8PW",
+      "rating": 5,
+      "text": "I stayed in Paris for 3 days. Every day, I stopped by here to buy my pastries...\n\nThe ladies were very nice. They were very eager to help you which one you...",
+      "time_created": "2023-04-09 03:15:00",
+      "url": "https://www.yelp.com/biz/boulangerie-julien-paris-3?"
+    },
+    {
+      "id": "aB_7nM3QgJODr-_WU-9QX",
+      "rating": 4,
+      "text": "Excellent croissants and coffee! The staff is friendly and the atmosphere is cozy. Perfect spot for breakfast before exploring the city...\n\nHighly recommend the pain au chocolat.",
+      "time_created": "2023-05-15 08:30:00",
+      "url": "https://www.yelp.com/biz/boulangerie-julien-paris-3?"
+    },
+    {
+      "id": "cD_5oP4RhKNEt-_XY-1RZ",
+      "rating": 3,
+      "text": "The bakery has good pastries but can get quite crowded in the morning. Service is decent but sometimes slow during peak hours...\n\nPrices are reasonable for the location.",
+      "time_created": "2023-06-22 10:45:00",
+      "url": "https://www.yelp.com/biz/boulangerie-julien-paris-3?"
+    }
+  ]
+}

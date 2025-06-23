@@ -15,3 +15,5 @@
 ### Chapter 4 – Transforming Data
 
 ### Chapter 5 – Continuous data ingestion
+
+### Chapter 6 – Executing code natively with Snowpark

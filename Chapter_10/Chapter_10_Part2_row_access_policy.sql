@@ -32,7 +32,7 @@ grant usage on warehouse BAKERY_WH to role DATA_ANALYST_PASTRY;
 
 use role ACCOUNTADMIN;
 grant create row access policy on schema DG to role DATA_ENGINEER;
-grant apply row access policy on schema DG to role DATA_ENGINEER;
+grant apply row access policy on account to role DATA_ENGINEER;;
 
 -- use the DATA_ENGINEER role to create the row access policy
 use role DATA_ENGINEER;

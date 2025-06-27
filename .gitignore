@@ -1,0 +1,41 @@
+# .gitignore
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python virtual environments (if used)
+venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Snowflake credentials or config files (if any)
+*.p12
+*.pem
+*.key
+*.crt
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Node modules (if using JS tools)
+node_modules/
+
+# Ignore AWS access keys and sensitive CSVs
+Chapter_03/snowflake_accessKeys.csv
+
+# Ignore Snowflake connection parameter files
+Chapter_06/connection_parameters.json
